@@ -1,0 +1,3 @@
+rootProject.name = 'sampleReactDir'
+
+include ':app'
